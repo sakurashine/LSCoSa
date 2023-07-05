@@ -1,5 +1,5 @@
-array1=( "5"  )
-array2=( "Dy4hot+1.2KL" )
+array1=( "1"  )
+array2=( "Dy4hot+1.6KL" )
 array3=( 0.4 )
 length=${#array1[@]}
 for ((i=0;i<$length;i++))
