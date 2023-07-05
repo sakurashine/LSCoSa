@@ -8,7 +8,7 @@ python linear.py   \
     -a resnet18 \
     --lr 2 \
     --batch_size 64 \
-    --pretrained [your_checkpoint_address] \
+    --pretrained [your_checkpoint_path] \
     --epochs 200 \
     --folder "../dataset/IndianPines" \
     --dataset "IndianPines" \
