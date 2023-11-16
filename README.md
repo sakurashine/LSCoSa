@@ -28,3 +28,6 @@ With a pre-trained model, we can easily evaluate its performance on IndianPines 
 ```
 bash run_test.sh
 ```
+
+## Citation
+
