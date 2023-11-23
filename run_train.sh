@@ -15,7 +15,7 @@ python main.py \
     --data_folder=../dataset/IndianPines \
     --dataset=IndianPines \
     --batch_size=32 \
-    --epochs=2 \
+    --epochs=200 \
     --patch_size=15 \
     --time ${array1[$i]}  \
     --loss ${array2[$i]}  \
