@@ -30,4 +30,14 @@ bash run_test.sh
 ```
 
 ## Citation
-
+```
+@ARTICLE{10314565,
+  author={Liang, Miaomiao and Dong, Jian and Yu, Lingjuan and Yu, Xiangchun and Meng, Zhe and Jiao, Licheng},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Self-Supervised Learning With Learnable Sparse Contrastive Sampling for Hyperspectral Image Classification}, 
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-13},
+  doi={10.1109/TGRS.2023.3331888}}
+```
