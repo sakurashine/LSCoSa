@@ -1,7 +1,6 @@
 # Self-Supervised Learning with Learnable Sparse Contrastive Sampling for Hyperspectral Image Classification
 LSCoSa[https://doi.org/10.1109/TGRS.2023.3331888] is a contrastive-learning based self-supervised learning method for HSIC followed in [CaCo: Both Positive and Negative Samples are Directly Learnable via Cooperative-adversarial Contrastive Learning](https://arxiv.org/abs/2203.14370). 
 
-Contact: Jian Dong (Mr.DongJianjian@gmail.com)
 
 <p align="center">
   <img src="https://github.com/sakurashine/LSCoSa/blob/main/LSCoSa_Motivation.png" >
@@ -30,6 +29,7 @@ bash run_test.sh
 ```
 
 ## Citation
+lf you use LSCoSa code in your research, we would appreciate a citation to the original paper:
 ```
 @ARTICLE{10314565,
   author={Liang, Miaomiao and Dong, Jian and Yu, Lingjuan and Yu, Xiangchun and Meng, Zhe and Jiao, Licheng},
@@ -41,3 +41,4 @@ bash run_test.sh
   pages={1-13},
   doi={10.1109/TGRS.2023.3331888}}
 ```
+If you have any questions or suggestions, welcome to contact me by email: Mr.DongJianjian@gmail.com
