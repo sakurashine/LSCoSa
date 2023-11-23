@@ -14,6 +14,7 @@ python linear.py   \
     --dataset "IndianPines" \
     --patch_size 15 \
     --class_balancing  \
+    --run 10 \
     --load_data 0.10  \
     --fine_tune no  \
     --desc ${array2[$i]} \
