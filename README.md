@@ -41,4 +41,4 @@ lf you use LSCoSa code in your research, we would appreciate a citation to the o
   pages={1-13},
   doi={10.1109/TGRS.2023.3331888}}
 ```
-If you have any questions or suggestions, welcome to contact me by email: Mr.DongJianjian@gmail.com
+If you have any questions or suggestions, welcome to contact me by email: dongj39@mail2.sysu.edu.cn
